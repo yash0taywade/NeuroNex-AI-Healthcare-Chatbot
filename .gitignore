@@ -1,0 +1,15 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+node_modules/
+.env
+dist/
+
+node_modules/
+.env
+dist/
+keys/gemini-sa.json
